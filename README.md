@@ -77,7 +77,8 @@
     "It Don't Work Like That, You Need To Have A Pretty Solid Executor Or Even A Custom Dll Before You Should Do Ads Cause Then There Is A Reason To Go Through The     Ad For It",
     "Even I Could Wrote Some Shit Better",
     "Its Autistic And I'm Not But You Appear To Be",
-    "Mfer You Can't Even Spell How Old Are You Lmao"
+    "Mfer You Can't Even Spell How Old Are You Lmao",
+    "When You're Not Retarded Lmk"
     ]
     var chosen = array[Math.floor(Math.random()*array.length)];
   
