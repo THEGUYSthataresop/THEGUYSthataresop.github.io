@@ -1,11 +1,14 @@
 # ImmuneLion318 quote generator
 
-<button onclick="generate()">k1</button>
+<button onclick="generate()">generate</button>
 
 <p id="quote"></p>
 
 <script>
-  array = ["Imagine Linkvertise On Something Like This",
+  
+  
+  function generate(){
+    array = ["Imagine Linkvertise On Something Like This",
 "Any .Net Disassembler",
 "Can Easily View",
 "I Have A Lot Of Features",
@@ -76,7 +79,6 @@
 ]
   var chosen = array[Math.floor(Math.random()*array.length)];
   
-  function generate(){
-    document.getElementById("quote").innerHTML = "TEST"
+    document.getElementById("quote").innerHTML = chosen
   }
 </script>
