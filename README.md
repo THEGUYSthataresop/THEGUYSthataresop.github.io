@@ -1,6 +1,6 @@
 # ImmuneLion318 quote generator
 
-<button onclick="generatGGe()">generate</button>
+<button onclick="generate()">Ggenerate</button>
 
 <p id="quote"></p>
 
