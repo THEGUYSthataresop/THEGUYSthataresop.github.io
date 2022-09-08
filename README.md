@@ -80,7 +80,8 @@
     "Mfer You Can't Even Spell How Old Are You Lmao",
     "When You're Not Retarded Lmk",
     "I Care Less Enjoy The Time You Wasted On That",
-    "Lmao Keep Updating It It Means Next To Nothing To Me"
+    "Lmao Keep Updating It It Means Next To Nothing To Me",
+    "Waste Of Time"
     ]
     var chosen = array[Math.floor(Math.random()*array.length)];
   
