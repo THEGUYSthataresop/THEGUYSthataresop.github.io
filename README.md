@@ -78,7 +78,8 @@
     "Even I Could Wrote Some Shit Better",
     "Its Autistic And I'm Not But You Appear To Be",
     "Mfer You Can't Even Spell How Old Are You Lmao",
-    "When You're Not Retarded Lmk"
+    "When You're Not Retarded Lmk",
+    "I Care Less Enjoy The Time You Wasted On That"
     ]
     var chosen = array[Math.floor(Math.random()*array.length)];
   
