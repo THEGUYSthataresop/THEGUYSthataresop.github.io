@@ -74,7 +74,8 @@
     "I Wouldn't Use One If You Have No Features To Back Up One To Use",
     "And Then No One Hardly Ends Up Downloading Their Stuff Cause Its Just Generic Like The Rest",
     "Jump In For The Money I Learned Fast When I Joined You Can't Immediately Go For Money",
-    "It Don't Work Like That, You Need To Have A Pretty Solid Executor Or Even A Custom Dll Before You Should Do Ads Cause Then There Is A Reason To Go Through The     Ad For It"
+    "It Don't Work Like That, You Need To Have A Pretty Solid Executor Or Even A Custom Dll Before You Should Do Ads Cause Then There Is A Reason To Go Through The     Ad For It",
+    "Even I Could Wrote Some Shit Better"
     ]
     var chosen = array[Math.floor(Math.random()*array.length)];
   
