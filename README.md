@@ -1,3 +1,9 @@
 # ImmuneLion318 quote generator
 
-<button>generate</button>
+<button onClick="generate()" style="background-color">generate</button>
+
+<script>
+  function generate(){
+  
+  }
+</script>
